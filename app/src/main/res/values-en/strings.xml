@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_main_name">Localization and theme</string>
+    <string name="btn_ok">OK</string>
+    <string name="text_view_language_choice">Selected language</string>
+    <string name="text_view_theme_choice">Selected theme color</string>
+    <string name="text_view_text">\tIf the mobile app enters the international market,
+        it needs localization for different languages.\n\t
+        Create a page with the following elements:\n\n
+        \u2022 Spinner with a list of languages-Russian and English.\n
+        \u2022 OK button. Click on this button to switch the language throughout the app.\n
+        \u2022 Add text on the page to display in English and Russian.
+    </string>
+    <string-array name="spinner_color_theme">
+        <item>Standard</item>
+        <item>Black</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>

@@ -4,28 +4,42 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="colorButtonNormal">@color/colorButton</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="AppThemeBlack" parent="AppTheme">
+    <style name="AppTheme.Black" >
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimaryBlack</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkBlack</item>
+        <item name="android:textColor">@color/colorTextBlack</item>
+        <item name="android:spinnerDropDownItemStyle">@style/DropDownItemStyle</item>
+        <item name="android:windowBackground">@color/colorWinBackgroundBlack</item>
+        <item name="colorButtonNormal">@color/colorButtonBlack</item>
         <item name="colorAccent">@color/colorAccentBlack</item>
     </style>
 
-    <style name="AppThemeGreen" parent="AppTheme">
+    <style name="AppTheme.Green" >
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimaryGreen</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkGreen</item>
+        <item name="android:windowBackground">@color/colorWinBackgroundGreen</item>
+        <item name="colorButtonNormal">@color/colorButtonGreen</item>
         <item name="colorAccent">@color/colorAccentGreen</item>
     </style>
 
-    <style name="AppThemeBlue" parent="AppTheme">
+    <style name="AppTheme.Blue" >
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimaryBlue</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkBlue</item>
+        <item name="android:windowBackground">@color/colorWinBackgroundBlue</item>
+        <item name="colorButtonNormal">@color/colorButtonBlue</item>
         <item name="colorAccent">@color/colorAccentBlue</item>
+    </style>
+
+    <style name="DropDownItemStyle" parent="Widget.AppCompat.DropDownItem.Spinner">
+        <item name="android:textColor">@color/colorText</item>
     </style>
 
 </resources>

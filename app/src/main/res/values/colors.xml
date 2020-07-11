@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#7B1FA2</color>
+    <color name="colorText">#000000</color>
+    <color name="colorButton">#A141CA</color>
+    <color name="colorAccent">#7C4DFF</color>
 
-    <color name="colorPrimaryBlack">#7F7E80</color>
-    <color name="colorPrimaryDarkBlack">#4C4C4C</color>
-    <color name="colorAccentBlack">#C6C8C8</color>
+    <color name="colorPrimaryBlack">#9E9E9E</color>
+    <color name="colorPrimaryDarkBlack">#616161</color>
+    <color name="colorTextBlack">#FFFFFF</color>
+    <color name="colorWinBackgroundBlack">#3C3C3C</color>
+    <color name="colorButtonBlack">#787878</color>
+    <color name="colorAccentBlack">#9E9E9E</color>
 
-    <color name="colorPrimaryGreen">#7DB140</color>
-    <color name="colorPrimaryDarkGreen">#4CAF50</color>
-    <color name="colorAccentGreen">#C9F486</color>
+    <color name="colorPrimaryGreen">#4CAF50</color>
+    <color name="colorPrimaryDarkGreen">#388E3C</color>
+    <color name="colorWinBackgroundGreen">#BFEF9F</color>
+    <color name="colorButtonGreen">#47B14C</color>
+    <color name="colorAccentGreen">#4CAF50</color>
 
-    <color name="colorPrimaryBlue">#0C6E9A</color>
-    <color name="colorPrimaryDarkBlue">#1F527A</color>
-    <color name="colorAccentBlue">#00BCD4</color>
+    <color name="colorPrimaryBlue">#2196F3</color>
+    <color name="colorPrimaryDarkBlue">#1976D2</color>
+    <color name="colorWinBackgroundBlue">#78E8F6</color>
+    <color name="colorButtonBlue">#308CE8</color>
+    <color name="colorAccentBlue">#448AFF</color>
 </resources>

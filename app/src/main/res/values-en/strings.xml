@@ -11,7 +11,7 @@
         \u2022 OK button. Click on this button to switch the language throughout the app.\n
         \u2022 Add text on the page to display in English and Russian.
     </string>
-    <string-array name="spinner_color_theme">
+    <string-array name="spinner_color_theme_array">
         <item>Standard</item>
         <item>Black</item>
         <item>Green</item>

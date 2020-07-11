@@ -3,7 +3,7 @@
     <string name="activity_main_name">Локализация и тема</string>
     <string name="btn_ok">ОК</string>
     <string name="text_view_language_choice">Выберите язык</string>
-    <string name="text_view_theme_choice">Выберите цвет темы</string>
+    <string name="text_view_theme_choice">Выберите цветовую тему</string>
     <string name="text_view_text">\tЕсли мобильное приложение выходит на международный рынок,
         ему нужна локализация под разные языки.\n\tСоздайте страницу со следующими элементами:\n\n
         \u2022 Spinner со списком языков - Русский и Английский.\n
@@ -14,7 +14,7 @@
         <item>Русский</item>
         <item>English</item>
     </string-array>
-    <string-array name="spinner_color_theme">
+    <string-array name="spinner_color_theme_array">
         <item>Стандартная</item>
         <item>Черная</item>
         <item>Зеленая</item>
